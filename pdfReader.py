@@ -30,7 +30,7 @@ print(len(text))
 import os
 import wandb
 from openai import OpenAI
-client = OpenAI(api_key='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');
+client = OpenAI(api_key='sk-abc');
 
 # Define a paragraph to be summarized
 paragraph = text
